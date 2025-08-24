@@ -1,0 +1,1 @@
+import Ahmad_strategy
