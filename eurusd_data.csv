@@ -1,4 +1,1 @@
-import streamlit as st
-st.set_page_config(page_title="Ahmad Strategys", layout="wide")
-st.title("📈 Ahmad Strategys")
-st.write("Welcome to your trading dashboard")
+df = pd.read_("eurusd_data.csv")
